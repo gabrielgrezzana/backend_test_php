@@ -1,6 +1,7 @@
 # Para rodar o projeto
 
 Utilizando php, mysql, laravel
+#!/bin/bash
 
 exemplo do arquivo .env
 
