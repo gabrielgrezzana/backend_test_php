@@ -3,14 +3,9 @@
 Utilizando php, mysql, laravel
 #!/bin/bash
 
-exemplo do arquivo .env
-
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=test_php_db
-DB_USERNAME=gabriel
-DB_PASSWORD=password
+configure seu mysql
+siga o exemplo de preenchimento do .env.example
+siga os comandos em run.sh.old
 
 # Destaque
 
@@ -18,7 +13,8 @@ Código todo baseado em classe e padrão de arquitetura MVC
 
 # Melhorias
 
-Melhorar sistema de validação da api (controllers)
+Melhorar sistema de controllers de api.
+Terminar de implementar sistema para zerar tabela do banco de votation toda meia noite.
 
 # Algo a mais
 
